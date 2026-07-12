@@ -1,0 +1,8 @@
+site_name: Hex to RGB / RGBA Converter
+site_description: Convert a hex colour to rgb()/rgba() with a live swatch.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
