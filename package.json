@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/hex-rgba",
+  "version": "1.0.0",
+  "description": "Convert a hex colour to rgb()/rgba() with a live swatch. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "hex-rgba.js",
+  "unpkg": "hex-rgba.js",
+  "files": ["hex-rgba.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "hex to rgb", "hex to rgba", "convert hex to rgb"],
+  "homepage": "https://sgbp.tech/tools/hex-to-rgba",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
